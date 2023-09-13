@@ -15,8 +15,8 @@
 <p align="left">
 <a href="www.linkedin.com/in/anurag-dhull-21603a253" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="AnuragDhull" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/20919652/anurag" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="users/20517476/" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/dhullanurag206" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="vinaythakur04" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/@dhullanurag206" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@vinaythakur04" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/dhullanurag206" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="AnuragDhull" height="30" width="40" /></a>
+<a href="https://www.hackerearth.com/@dhullanurag206" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@AnuragDhull" height="30" width="40" /></a>
 <a href="dhullanua4nq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="dhullanua4nq" height="30" width="40" /></a>
 </p>
 
@@ -25,7 +25,7 @@
 
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=false&username=AnuragDhull" height="180" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=false&username=AnuragDhull" height="180" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=false&username=AnuragDhull" height="180" width="450" alt="languages graph"  />
 </div>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?animations=false&theme=radical&locale=en&hide_border=false&user=AnuragDhull&" alt="AnuragDhull" /></p>
