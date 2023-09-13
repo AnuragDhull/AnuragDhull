@@ -31,8 +31,9 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?animations=false&theme=dark&locale=en&hide_border=false&user=AnuragDhull&" alt="AnuragDhull" /></p>
 
 
-<!--<h3>Snake_Eating_My_Contribution</h3>
+<h3>Snake_Eating_My_Contribution</h3>
 <div align="left""animations=false&theme=dark&locale=en&hide_border=false">
   <hr></div>
-<img src="https://github.com/VinayThakur04/VinayThakur04/blob/output/snake.svg" alt="Snake animation" />-->
+<img src="https://github.com/AnuragDhull/AnuragDhull/blob/output/snake.svg" alt="Snake animation" />
+
 
